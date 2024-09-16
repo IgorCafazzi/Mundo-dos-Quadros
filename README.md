@@ -1,3 +1,3 @@
 # Mundo-dos-Quadros
 
-<h1>MENU</h1>
+<h2>MENU</h2>
