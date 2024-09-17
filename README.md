@@ -81,4 +81,5 @@ Ruas largas de mão dupla e diversos prédios para representar a Avenida Paulist
 
 <h2>CENA 3- MASP</h2>
 Agora o jogador está dentro do MASP. Representamos essa parte de dentro usando quadros emoldurados acima de cubos, assim como realmente é no MASP
-![Museu-Masp-Sao-Paulo-18](https://github.com/user-attachments/assets/f86947f6-0f91-4425-8aed-8e1897c34f52)
+
+![Museu-Masp-Sao-Paulo-18](https://github.com/user-attachments/assets/4d610717-a904-41e9-b753-de743bcb1091)
