@@ -12,6 +12,28 @@ Camera: Usamos o gameobject cinemachine, usando a opção <strong>Free Lock Came
 
 renascer: Utilizamos um gameobject com tag "respawn" e um script c# fazendo que quando o jogador caia ele seja transportado até o gameobject "respawn", servindo como um checkpoint
 
+using UnityEngine;
+
+public class PlayerFall : MonoBehaviour
+{
+    public float fallLimit = -20f;
+
+    public Transform respawnPoint;
+
+    void Update()
+    {
+        if (transform.position.y < fallLimit)
+        {
+            Respawn();
+        }
+    }
+
+    void Respawn()
+    {
+        transform.position = respawnPoint.position;
+    }
+}
+
 
 
 
