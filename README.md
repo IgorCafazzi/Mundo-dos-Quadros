@@ -3,6 +3,7 @@
 No personagem usamos o asset(https://assetstore.unity.com/packages/3d/characters/kids-character-free-242192) referenciando o nosso protagonista Marquinhos usando uma camisa verde, calças e suspensorios azuis e cabelo loiro.
 
 para colisão usamos um character controller 
+![character](https://github.com/user-attachments/assets/c1fc80e1-f5ef-4d8c-85a8-0745a61031d1)
 
 
 
