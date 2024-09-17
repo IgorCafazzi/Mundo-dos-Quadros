@@ -80,6 +80,8 @@ Para a formação da cena geral (prédios e outras construções), usamos o asse
 Ruas largas de mão dupla e diversos prédios para representar a Avenida Paulista. O MASP foi colocado no fim de um beco para causar estranheza, pois ele não fica naquele local normalmente.
 
 <h2>CENA 3- MASP</h2>
-Agora o jogador está dentro do MASP. Representamos essa parte de dentro usando quadros emoldurados acima de cubos, assim como realmente é no MASP
+Agora o jogador está dentro do MASP. Representamos essa parte de dentro como um corredor reto e usamos quadros emoldurados acima de cubos, assim como realmente é no MASP
 
 ![Museu-Masp-Sao-Paulo-18](https://github.com/user-attachments/assets/4d610717-a904-41e9-b753-de743bcb1091)
+
+No final do corredor o player encontra o quadro da Cidade Iluminada, que ao encostar nele é teletransportado para a próxima cena. Ao ladro desse quadro está o inspetor, um homem de poucas palavras presente na cena (asset: https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870 )
