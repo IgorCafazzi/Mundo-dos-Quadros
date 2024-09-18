@@ -34,36 +34,12 @@ Checkpoint: Para implementação de um sistema de respawn colocamos um GameObjec
 
 <h2>CENA 1- MENU</h2>
 Para o menu principal do jogo, usamos 2 botões que deixaram ele interativo. Botão 1: "Jogar". Ao clicar nesse botão, ocorre uma troca de cena que direciona o player para a cena 2- Avenida Paulista
-Script: using UnityEngine;
-using UnityEngine.SceneManagement;
+Script: 
 
-public class SceneSwitcher : MonoBehaviour
-{
-    // Variável pública para definir o nome da cena no Inspector
-    public string nomeCena;
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            // Carrega a cena com o nome especificado
-            SceneManager.LoadScene(nomeCena);
-        }
-    }
-}
+![Screenshot_20240918_114002_Chrome.jpg](https://github.com/user-attachments/assets/57fca435-bae7-474d-ad72-05e97e873747)
 
 O outro botão é o de "Sair". Ao clicar nele, o jogo fecha
-Script:using UnityEngine;
-
-public class QuitGame : MonoBehaviour
-{
-    public void Quit()
-    {
-        // Fecha o jogo quando estiver em um build (fora do editor)
-        Application.Quit();
-        #endif
-    }
-}
+Script:
 
 Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite e aplicamos nos painel.
 ![WhatsApp Image 2024-09-12 at 16 57 10](https://github.com/user-attachments/assets/9634a90f-0a2d-44cb-b9c3-fb10513cf9ba)
