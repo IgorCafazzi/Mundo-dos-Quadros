@@ -50,9 +50,8 @@ Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite
 <hr>
 
 <h2>CENA 2- AVENIDA PAULISTA</h2>
-Na primeira cena o jogador andando pelo mapa acaba encontrando o MASP, o jogador deve subir as escadas e ao encostar na porta ele é levado para a próxima cena. Para a formação da Cena na avenida paulista usamos assets de grandes cidades, representando a metropole que são paulo é, além disso tbm usamos um asset de masp e fizemos pequenas alterações no blender para abrir um espaço por onde o jogador pode andar e ir até a proxima cena. Ruas largas de mão dupla e diversos prédios para representar a Avenida Paulista. O MASP foi colocado no fim de um beco para causar estranheza, pois ele não fica naquele local normalmente. Para fazer isso usamos um código para a transição das cenas.
 
-Ruas largas de mão dupla e diversos prédios para representar a Avenida Paulista. O MASP foi colocado no fim de um beco para causar estranheza, pois ele não fica naquele local normalmente.
+Na primeira cena, o jogador encontra o MASP, sobe as escadas e, ao encostar na porta, é levado para a próxima fase. Utilizamos assets urbanos para representar São Paulo e modificamos o MASP no Blender para abrir um caminho acessível. A Avenida Paulista foi criada com ruas largas e prédios altos. Posicionamos o MASP no fim de um beco para causar estranheza, e a transição de cenas foi realizada utilizando um código c#.
 
 asset City Voxel Pack: (https://assetstore.unity.com/packages/3d/environments/urban/city-voxel-pack-136141)
 
