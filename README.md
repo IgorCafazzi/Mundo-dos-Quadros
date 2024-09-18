@@ -22,28 +22,30 @@ Colisão: Usamos um character controller para fazer a Movimentação do personag
 ![character](https://github.com/user-attachments/assets/c1fc80e1-f5ef-4d8c-85a8-0745a61031d1)
 
 Na Movimentação usamos esse script de C#
+script:
 (imagem com o script)
 
 Camera: Na camera usamos a ferramenta Cinemachine no unity, usando a opção <strong>Free Look Camera</strong>, com ela conseguimos fazer uma camera em 3°pessoa que segue o jogador colocando as opções "follow" e "look at" para seguir o objeto com tag "player", trazendo assim um movimento suave para a camera permitindo o jogador rotacionar a camera em volta do personagem.
 
-Checkpoint: Para implementação de um sistema de respawn colocamos um GameObject cubo invisivel com tag "respawn" onde o jogador devia respawnar, assim o jogador não corre o risco de errar o pulo e ficar preso no void do unity, por que quando ele passa -20f no eixo y ele é chamdo denovo a posição do cubo com tag "respawn". Isso impede de trazer uma gameplay frustrante e punitiva, afinal mesmo que ele erre ele ainda vai ser chamado ao checkpoint.
+Checkpoint: Para implementação de um sistema de respawn colocamos um GameObject cubo invisivel com tag "respawn" onde o jogador devia respawnar, assim o jogador não corre o risco de errar o pulo e ficar preso no void do unity, por que quando ele passa -20f no eixo y ele é chamdo denovo a posição do cubo com tag "respawn". Isso impede de trazer uma gameplay frustrante e punitiva, afinal mesmo que ele erre ele ainda vai ser chamado ao checkpoint. <br>
+Script:
 
 ![Screenshot_20240918_113320_Chrome.jpg](https://github.com/user-attachments/assets/cd536471-4c4d-4bf9-a0fb-81801cade4f3)
 
 <hr>
 
 <h2>CENA 1- MENU</h2>
-Para o menu principal do jogo, usamos 2 botões que deixaram ele interativo. Botão 1: "Jogar". Ao clicar nesse botão, ocorre uma troca de cena que direciona o player para a cena 2- Avenida Paulista
+Para o menu principal do jogo, usamos 2 botões que deixaram ele interativo. Botão 1: "Jogar". Ao clicar nesse botão, ocorre uma troca de cena que direciona o player para a cena 2- Avenida Paulista. <br>
 Script: 
 
 ![Screenshot_20240918_114002_Chrome.jpg](https://github.com/user-attachments/assets/57fca435-bae7-474d-ad72-05e97e873747)
 
-O outro botão é o de "Sair". Ao clicar nele, o jogo fecha
+O outro botão é o de "Sair". Ao clicar nele, o jogo fecha. <br>
 Script:
 
 ![Screenshot_20240918_114143_Chrome.jpg](https://github.com/user-attachments/assets/29075cdd-fae6-437e-8271-47bf6a168910)
 
-Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite e aplicamos nos painel.
+Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite e aplicamos nos painel. <br> Imagem:
 
 ![WhatsApp Image 2024-09-12 at 16 57 10](https://github.com/user-attachments/assets/9634a90f-0a2d-44cb-b9c3-fb10513cf9ba)
 
@@ -53,7 +55,8 @@ Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite
 
 ![tudo-sobre-avenida-paulista.jpg](https://github.com/user-attachments/assets/8cd0252c-ad73-4d71-97ba-e55474288531)
 
-Na primeira cena, o jogador encontra o MASP, sobe as escadas e, ao encostar na porta, é levado para a próxima fase. Utilizamos assets urbanos para representar São Paulo e modificamos o MASP no Blender para abrir um caminho acessível. A Avenida Paulista foi criada com ruas largas e prédios altos. Posicionamos o MASP no fim de um beco para causar estranheza, e a transição de cenas foi realizada utilizando um código c#.
+Na primeira cena, o jogador encontra o MASP, sobe as escadas e, ao encostar na porta, é levado para a próxima fase. Utilizamos assets urbanos para representar São Paulo e modificamos o MASP no Blender para abrir um caminho acessível. A Avenida Paulista foi criada com ruas largas e prédios altos. Posicionamos o MASP no fim de um beco para causar estranheza, e a transição de cenas foi realizada utilizando um código c#. <br>
+script:
 
 asset City Voxel Pack: (https://assetstore.unity.com/packages/3d/environments/urban/city-voxel-pack-136141)
 
@@ -73,5 +76,7 @@ asset: (https://assetstore.unity.com/packages/3d/characters/humanoids/character-
 
 <h2>CENA 4- CIDADE ILUMINADA</h2>
 Na cena cidade iluminada nos inspiramos no quadro de mesmo nome e usamos molduras de quadro, que modelamos no blender, como plataforma além disso colocamos fantasmas como inimigos e adicionamos colliders, com a opção "is Trigger" ligada, em cada fantasma assim fazendo com que quando o jogador toque no fantasma ele vá para uma cena de fim de jogo. Na cena no geral foi utilizado somente as plataformas representando a pintura "Cidade Iluminada", os fantasmas representando erros nas pinturas, também colocamos um fundo de noite na cena e para representar a iluminação da cidade colocamos luzes do tipo <strong>Spotlight</strong>.
+<br>
+script:
 
 asset de fantasma: (https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003)
