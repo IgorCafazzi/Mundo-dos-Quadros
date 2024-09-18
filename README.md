@@ -41,7 +41,10 @@ Script:
 O outro botão é o de "Sair". Ao clicar nele, o jogo fecha
 Script:
 
+![Screenshot_20240918_114143_Chrome.jpg](https://github.com/user-attachments/assets/29075cdd-fae6-437e-8271-47bf6a168910)
+
 Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite e aplicamos nos painel.
+
 ![WhatsApp Image 2024-09-12 at 16 57 10](https://github.com/user-attachments/assets/9634a90f-0a2d-44cb-b9c3-fb10513cf9ba)
 
 <hr>
