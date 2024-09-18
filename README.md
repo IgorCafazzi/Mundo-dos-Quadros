@@ -83,6 +83,7 @@ Na cena cidade iluminada nos inspiramos no quadro de mesmo nome e usamos moldura
 <br>
 script:
 
+![patrulha](https://github.com/user-attachments/assets/3de6fa7e-8b68-451a-b2e3-2ad56d1ba472)
 
 <br>
 asset de fantasma: (https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003)
