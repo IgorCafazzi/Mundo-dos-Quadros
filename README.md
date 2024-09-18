@@ -60,13 +60,16 @@ asset do MASP: (https://sketchfab.com/3d-models/masp-museu-de-arte-de-sao-paulo-
 <hr>
 
 <h2>CENA 3- MASP</h2>
-Agora o jogador está dentro do MASP. Representamos essa parte de dentro como um corredor reto e usamos quadros emoldurados acima de cubos, assim como realmente é no MASP
+Já no Masp usamos o asset do masp novamente para representar uma sala com diversos quadros emoldurados acima de um cubo, tal qual como realmente é no Masp.
 
 ![Museu-Masp-Sao-Paulo-18](https://github.com/user-attachments/assets/4d610717-a904-41e9-b753-de743bcb1091)
 
-No final do corredor o player encontra o quadro da Cidade Iluminada, que ao encostar nele é teletransportado para a próxima cena. Ao lado desse quadro está o inspetor, um homem de poucas palavras presente na cena (asset: https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870 )
+No final do corredor o jogador encontra o quadro da Cidade Iluminada, ao encostar nele o jogador sera teletransportado para a próxima cena. Ao lado desse quadro está o inspetor, um homem de poucas palavras presente na cena.
+asset: (https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870)
 
 <hr>
 
 <h2>CENA 4- CIDADE ILUMINADA</h2>
-Na cena cidade iluminada nos inspiramos no quadro de mesmo nome e usamos molduras de quadro como plataforma que modelamos no blender, além disso usamos um asset de fantasma(https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003) e colocamos um collider no fantasma juntamente a um script c# de 
+Na cena cidade iluminada nos inspiramos no quadro de mesmo nome e usamos molduras de quadro, que modelamos no blender, como plataforma além disso colocamos fantasmas como inimigos e adicionamos colliders, com a opção "is Trigger" ligada, em cada fantasma assim fazendo com que quando o jogador toque no fantasma ele vá para uma cena de fim de jogo. Na cena no geral foi utilizado somente as plataformas representando a pintura "Cidade Iluminada", os fantasmas representando erros nas pinturas, também colocamos um fundo de noite na cena e para representar a iluminação da cidade colocamos luzes do tipo <strong>Spotlight</strong>.
+
+asset de fantasma: (https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003)
