@@ -23,7 +23,8 @@ Colisão: Usamos um character controller para fazer a Movimentação do personag
 
 Na Movimentação usamos esse script de C# <br>
 script:
-(imagem com o script)
+
+![movi](https://github.com/user-attachments/assets/e1c90c0f-f7f7-4768-9b96-f32792c0f2a0)
 
 Camera: Na camera usamos a ferramenta Cinemachine no unity, usando a opção <strong>Free Look Camera</strong>, com ela conseguimos fazer uma camera em 3°pessoa que segue o jogador colocando as opções "follow" e "look at" para seguir o objeto com tag "player", trazendo assim um movimento suave para a camera permitindo o jogador rotacionar a camera em volta do personagem. <br>
 imagem:
