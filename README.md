@@ -56,7 +56,7 @@ Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite
 
 ![tudo-sobre-avenida-paulista.jpg](https://github.com/user-attachments/assets/8cd0252c-ad73-4d71-97ba-e55474288531)
 
-Na primeira cena, o jogador encontra o MASP, sobe as escadas e, ao encostar na porta, é levado para a próxima fase(script que será usado para as trocas das fases: ![trocadecena](https://github.com/user-attachments/assets/fa0f4fa6-5302-465f-b77e-787ae3b065e3). Utilizamos assets urbanos para representar São Paulo e modificamos o MASP no Blender para abrir um caminho acessível. A Avenida Paulista foi criada com ruas largas e prédios altos. Posicionamos o MASP no fim de um beco para causar estranheza, e a transição de cenas foi realizada utilizando um código c#. <br>
+Na primeira cena, o jogador encontra o MASP, sobe as escadas e, ao encostar na porta, é levado para a próxima fase(script que será usado para as trocas das fases:) ![trocadecena](https://github.com/user-attachments/assets/fa0f4fa6-5302-465f-b77e-787ae3b065e3). Utilizamos assets urbanos para representar São Paulo e modificamos o MASP no Blender para abrir um caminho acessível. A Avenida Paulista foi criada com ruas largas e prédios altos. Posicionamos o MASP no fim de um beco para causar estranheza, e a transição de cenas foi realizada utilizando um código c#. <br>
 script:
 
 
