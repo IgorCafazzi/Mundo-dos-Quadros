@@ -68,7 +68,7 @@ asset do MASP: (https://sketchfab.com/3d-models/masp-museu-de-arte-de-sao-paulo-
 <hr>
 
 <h2>CENA 3- MASP</h2>
-Já no Masp usamos o asset do masp novamente para representar uma sala com diversos quadros emoldurados acima de um cubo, tal qual como realmente é no Masp. <br>
+Já no Masp usamos o asset do masp novamente para representar uma sala com diversos quadros emoldurados acima de um cubo (asset dos quadros: https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907), tal qual como realmente é no Masp. <br>
 
 ![Museu-Masp-Sao-Paulo-18](https://github.com/user-attachments/assets/4d610717-a904-41e9-b753-de743bcb1091)
 
