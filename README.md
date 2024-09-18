@@ -79,6 +79,9 @@ asset: (https://assetstore.unity.com/packages/3d/characters/humanoids/character-
 <hr>
 
 <h2>CENA 4- CIDADE ILUMINADA</h2>
+
+![WhatsApp Image 2024-09-18 at 17 53 37](https://github.com/user-attachments/assets/d86bdcec-9124-4e59-b15d-c33baa0c7eba)
+
 Na cena cidade iluminada nos inspiramos no quadro de mesmo nome e usamos molduras de quadro, que modelamos no blender, como plataforma além disso colocamos fantasmas como inimigos e adicionamos colliders, com a opção "is Trigger" ligada, em cada fantasma assim fazendo com que quando o jogador toque no fantasma ele vá para uma cena de fim de jogo. Na cena no geral foi utilizado somente as plataformas representando a pintura "Cidade Iluminada", os fantasmas representando erros nas pinturas, também colocamos um fundo de noite na cena e para representar a iluminação da cidade colocamos luzes do tipo <strong>Spotlight</strong>.
 <br>
 script:
