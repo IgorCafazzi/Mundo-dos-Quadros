@@ -1,6 +1,12 @@
 # Mundo-dos-Quadros 🎨 🖼️
+<h1>Introdução ao Jogo</h1>
+<p>
+    Nossa ideia foi um jogo de ação e plataforma 3d, que se passa em São paulo atual onde o jogador começara na paulista e entrando em um beco encontrara o Masp, entrando no masp ele podera se aventurar dentro do quadro "A cidade Ilumina" por Antonio Bandeira, assim mostrando a metamorfose de São paulo atual. O jogo dentro do quadro é um jogo de plataforma com fantasmas da pintura sendo os principais inimigos, o jogador após passar por duas fases dentro do quadro consegue sair e pode finalmente sair do quadro. O jogo foi inspirado nos jogos Crash Bandicoot, Super Mario Bros. Wonder, Super Mario Odyssey e Epic Mickey,
+</p>
 <h2>PERSONAGEM</h2>
-No personagem usamos o asset(https://assetstore.unity.com/packages/3d/characters/kids-character-free-242192) referenciando o nosso protagonista Marquinhos usando uma camisa verde, calças e suspensorios azuis e cabelo loiro.
+Nosso protagonista Marquinhos usando uma camisa verde, calças e suspensorios azuis e cabelo loiro.
+
+asset usado: (https://assetstore.unity.com/packages/3d/characters/kids-character-free-242192)
 
 para colisão usamos um character controller que faz...
 ![character](https://github.com/user-attachments/assets/c1fc80e1-f5ef-4d8c-85a8-0745a61031d1)
