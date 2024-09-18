@@ -28,27 +28,7 @@ Camera: Na camera usamos a ferramenta Cinemachine no unity, usando a opção <st
 
 Checkpoint: Para implementação de um sistema de respawn colocamos um GameObject cubo invisivel com tag "respawn" onde o jogador devia respawnar, assim o jogador não corre o risco de errar o pulo e ficar preso no void do unity, por que quando ele passa -20f no eixo y ele é chamdo denovo a posição do cubo com tag "respawn". Isso impede de trazer uma gameplay frustrante e punitiva, afinal mesmo que ele erre ele ainda vai ser chamado ao checkpoint.
 
-using UnityEngine;
-
-public class PlayerFall : MonoBehaviour
-{
-    public float fallLimit = -20f;
-
-    public Transform respawnPoint;
-
-    void Update()
-    {
-        if (transform.position.y < fallLimit)
-        {
-            Respawn();
-        }
-    }
-
-    void Respawn()
-    {
-        transform.position = respawnPoint.position;
-    }
-}
+![Screenshot_20240918_113320_Chrome.jpg](https://github.com/user-attachments/assets/cd536471-4c4d-4bf9-a0fb-81801cade4f3)
 
 <hr>
 
