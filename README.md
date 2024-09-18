@@ -12,7 +12,7 @@
 Nosso protagonista Marquinhos é um jovem de 17 anos que estava andando pela paulista. O modelo do marquinhos tem um esilo cartoon em 3d, usando uma camisa verde, calças e suspensorios azuis e cabelo loiro. O viual dele no geral transmite um visual simples porém moderno, misturando fantasia com modernismo.
 
 
-asset usado: (https://assetstore.unity.com/packages/3d/characters/kids-character-free-242192)
+asset do Marquinhos: (https://assetstore.unity.com/packages/3d/characters/kids-character-free-242192)
 
 
 Colisão: Usamos um character controller para fazer a Movimentação do personagem. Esse componente permite controlar o movimento sem a necesidade de aplicar física diretamente. Com o character Controller podemos fazer uma movimentação mais suave, evitando problemas comuns como colisões incorretas e perda de controle do personagem.
