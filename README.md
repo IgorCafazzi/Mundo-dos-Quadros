@@ -48,7 +48,7 @@ Script:
 
 Para a imagem de fundo criamos um painel, pegamos a imagem, deixamos como sprite e aplicamos nos painel. <br> Imagem:
 
-![WhatsApp Image 2024-09-18 at 17 32 50](https://github.com/user-attachments/assets/a42f6a6d-4e33-4ed7-88c3-c1f8e83fec7f)
+![WhatsApp Image 2024-09-18 at 18 03 33](https://github.com/user-attachments/assets/6b81e950-3d56-4aed-8dc5-8f9472af45aa)
 
 <hr>
 
