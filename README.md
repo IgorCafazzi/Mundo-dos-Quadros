@@ -93,7 +93,11 @@ script:
 asset de fantasma: (https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003)
 
 
-links drive: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
+links drive: <br>
+Jogo: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
+
+<br>
+Jogo Editável:
 https://drive.google.com/file/d/14t8xrI_jGDbsbNWJVvcvzWBaKy4VCB6U/view?usp=sharing
 
 
