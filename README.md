@@ -124,7 +124,53 @@ Plataformas agora se movem, fazendo com que Marquinhos tenha que dar grandes sal
 Encerramento
 Após vencer a fase final, Marquinhos encontra uma porta que o leva de volta a seu mundo. Marquinhos está confuso,porém com um sentimento de realização
 
+<br>
 
+<h2>Paleta de Cores</h2>
+
+<br>
+
+Paleta Paulista (Transformação de São Paulo ao longo do tempo):
+
+#DAFDBA (Verde Claro): Representa renovação e o começo de algo novo.
+
+#9AEBA3 (Verde Vitalidade): Sugere crescimento e representa a natureza dentro da cidade.
+
+#45C4B0 (Verde-Azulado): Indica modernidade e o dinamismo da metrópole.
+
+#13678A (Azul Profundo): Transmite estabilidade e seriedade da cidade.
+
+#012030 (Tom Escuro): Evoca mistério e a complexidade de São Paulo.
+
+<br>
+
+Cena 'A Cidade Iluminada' (Inspirada em 'A Cidade Iluminada' de Antônio Bandeira):
+
+#8C3041 (Vermelho Escuro): Simboliza a intensidade da cidade.
+
+#BF2A2A (Vermelho Profundo): Reforça a intensidade urbana.
+
+#1469D9 (Azul): Representa modernidade.
+
+#B0D973 (Verde Claro): Sugere crescimento e renovação.
+
+#F26938 (Laranja Vibrante): Destaca a energia e o calor da metrópole.
+
+<br>
+
+Paleta Paulista (Inspirada em São Paulo durante o dia):
+
+#738BBF (Azul Claro): Representa o céu e a modernidade da cidade.
+
+#012626 (Verde Escuro): Evoca as áreas verdes de São Paulo.
+
+#A3D9D3 (Verde Claro): Simboliza as árvores e plantas.
+
+#022601 (Verde Escuro): Representa as sombras e profundidade das áreas verdes.
+
+#D9B79A (Bege): Evoca o calor do sol iluminando as ruas da cidade.
+
+<br>
 
 links drive: <br>
 Jogo: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
