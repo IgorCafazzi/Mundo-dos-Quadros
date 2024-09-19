@@ -92,6 +92,38 @@ script:
 <br>
 asset de fantasma: (https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003)
 
+<h2>Narrativa</h2>
+Título: Mundo dos Quadros - A Cidade Iluminada
+Abertura
+Marquinhos, um jovem de 17 anos da periferia de São Paulo, caminha pela 
+movimentada Avenida Paulista em um dia comum. Ele é um garoto de aparência 
+juvenil e curiosa, com cabelos loiros curtos, óculos redondos, uma camisa verde 
+com suspensórios e uma calça azul. Durante o passeio, algo incomum chama sua 
+atenção: ao final de uma viela pouco iluminada, ele avista o MASP (Museu de Arte 
+de São Paulo) em um local onde não deveria estar. Movido por sua curiosidade e 
+forte senso de justiça, Marquinhos decide investigar e adentra a viela.
+O Museu Misterioso
+Ao se aproximar do museu, Marquinhos percebe que a estrutura é idêntica ao 
+MASP, mas algo parece fora do lugar. O ar está denso, quase surreal. Ele decide 
+entrar no museu, onde encontra várias obras de arte icônicas brasileiras. O 
+ambiente é imersivo, e as pinturas parecem ter vida própria.
+No interior do museu, Marquinhos encontra o Inspetor, uma figura jovem, enigmática 
+e de aparência simples, vestida com roupas azuis e brancas. Com um sorriso 
+misterioso, o Inspetor convida Marquinhos a observar de perto a obra "Cidade 
+Iluminada" de Antônio Bandeira. 
+Curioso, Marquinhos se inclina para observar a pintura e, de repente, é sugado para 
+dentro dela. Ele agora está imerso no mundo vibrante e abstrato da "Cidade 
+Iluminada", onde pinceladas de luz e cor formam o ambiente ao seu redor.
+A Jornada na Obra
+Dentro do quadro, o cenário é abstrato e fascinante, mas também perigoso. 
+Marquinhos precisa navegar por plataformas e enfrentar inimigos fantasmas . A música 
+ambiente muda conforme o cenário, ajudando a intensificar a experiência imersiva.
+O Clímax
+Na última fase, dentro da "Cidade Iluminada", Marquinhos enfrenta seu maior desafio:
+Plataformas agora se movem, fazendo com que Marquinhos tenha que dar grandes saltos para não cair no abismo.
+Encerramento
+Após vencer a fase final, Marquinhos encontra uma porta que o leva de volta a seu mundo. Marquinhos está confuso,porém com um sentimento de realização
+
 
 links drive: <br>
 Jogo: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
