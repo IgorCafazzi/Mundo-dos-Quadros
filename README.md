@@ -134,47 +134,28 @@ Após vencer a fase final, Marquinhos encontra uma porta que o leva de volta a s
 
 <h2>Paleta de Cores</h2>
 
-<br>
+<h3>Cena Masp:</h3>
+#5E90F2 (RGB 94, 144, 242):
 
-Paleta Paulista (Transformação de São Paulo ao longo do tempo):
+Um azul claro e vibrante, que transmite uma sensação de calma e profundidade. Pode remeter ao céu ou à ideia de espaço aberto dentro do MASP, com suas grandes janelas e vistas da cidade.
 
-#DAFDBA (Verde Claro): Representa renovação e o começo de algo novo.
+#768BA6 (RGB 118, 139, 166):
 
-#9AEBA3 (Verde Vitalidade): Sugere crescimento e representa a natureza dentro da cidade.
+Um azul acinzentado, que é mais suave e discreto. Esse tom neutro pode ser usado para elementos de fundo ou objetos dentro do museu, trazendo um ar de sofisticação e modernidade.
 
-#45C4B0 (Verde-Azulado): Indica modernidade e o dinamismo da metrópole.
+#3F4B59 (RGB 63, 75, 89):
 
-#13678A (Azul Profundo): Transmite estabilidade e seriedade da cidade.
+Um cinza escuro azulado, que evoca uma sensação de solidez e estabilidade. Ideal para áreas estruturais, como as colunas ou a estrutura metálica do MASP, dando um toque mais industrial e urbano.
 
-#012030 (Tom Escuro): Evoca mistério e a complexidade de São Paulo.
+#72808C (RGB 114, 128, 140):
 
-<br>
+Um cinza azulado médio, que adiciona suavidade e uma transição natural entre os outros tons. Pode ser usado em superfícies ou detalhes, oferecendo um aspecto moderno sem ser muito chamativo.
 
-Cena 'A Cidade Iluminada' (Inspirada em 'A Cidade Iluminada' de Antônio Bandeira):
+#9DD962 (RGB 157, 217, 98):
 
-#8C3041 (Vermelho Escuro): Simboliza a intensidade da cidade.
-
-#BF2A2A (Vermelho Profundo): Reforça a intensidade urbana.
-
-#1469D9 (Azul): Representa modernidade.
-
-#B0D973 (Verde Claro): Sugere crescimento e renovação.
-
-#F26938 (Laranja Vibrante): Destaca a energia e o calor da metrópole.
+Um verde vibrante, que contrasta com os tons mais frios e cria uma sensação de vitalidade e natureza. Pode representar o verde das plantas nas áreas externas ou até trazer uma energia revitalizante dentro do ambiente do MASP, sugerindo crescimento ou inovação.
 
 <br>
-
-Paleta Paulista (Inspirada em São Paulo durante o dia):
-
-#738BBF (Azul Claro): Representa o céu e a modernidade da cidade.
-
-#012626 (Verde Escuro): Evoca as áreas verdes de São Paulo.
-
-#A3D9D3 (Verde Claro): Simboliza as árvores e plantas.
-
-#022601 (Verde Escuro): Representa as sombras e profundidade das áreas verdes.
-
-#D9B79A (Bege): Evoca o calor do sol iluminando as ruas da cidade.
 
 <br>
 
