@@ -38,7 +38,7 @@ imagem:
 ![Screenshot_20240918_150240_YouTube.jpg](https://github.com/user-attachments/assets/15a65cc0-01ae-435f-91ca-6f88c6eb3847)
 
 
-Checkpoint: Para implementação de um sistema de respawn colocamos um GameObject cubo invisivel com tag "respawn" onde o jogador devia respawnar, assim o jogador não corre o risco de errar o pulo e ficar preso no void do unity, por que quando ele passa -20f no eixo y ele é chamdo denovo a posição do cubo com tag "respawn". Isso impede de trazer uma gameplay frustrante e punitiva, afinal mesmo que ele erre ele ainda vai ser chamado ao checkpoint. <br>
+Checkpoint: O código implementa um sistema de respawn em Unity para um personagem. Na classe NewBehaviourScript, são declaradas variáveis para a posição de respawn e para o CharacterController. No método Start, a posição de respawn é definida e o controlador é obtido. No método Update, verifica-se se a posição do personagem no eixo Y é menor que -10; se sim, chama-se o método ForaDoMapa, que desabilita o controlador, reposiciona o personagem na posição de respawn e o reabilita, além de registrar uma mensagem no console indicando que o respawn ocorreu. <br>
 Script:
 
 ![IMG-20240919-WA0057.jpg](https://github.com/user-attachments/assets/19a42be7-0fee-4272-a0c7-e89d7fce70e7)
@@ -336,6 +336,8 @@ Um cinza acinzentado, que traz um toque de neutralidade e rusticidade. Essa cor 
 
 Um azul-escuro, que adiciona profundidade e um toque de sofisticação. Ele pode ser usado para representar áreas mais sombrias ou industriais, ajudando a criar um contraste com os tons mais quentes da paleta.
 <br>
+
+
 links drive: 
 
 <br>
