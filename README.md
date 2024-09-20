@@ -161,6 +161,42 @@ Um verde vibrante, que contrasta com os tons mais frios e cria uma sensação de
 
 <br>
 
+<h3>Cena Cidade Iluminada</h3>
+
+![AdobeColor-City1.jpeg](https://github.com/user-attachments/assets/acb5d24f-a247-4a69-9a26-779af28c7007)
+
+
+#181D26 (RGB 24, 29, 38):
+
+Um azul muito escuro, quase preto. Ele evoca a ideia de uma noite profunda ou sombras urbanas. Pode ser usado para o céu noturno ou áreas sombrias da cidade, dando um ar misterioso e introspectivo.
+
+
+
+#0A0B0D (RGB 10, 11, 13):
+
+Um preto puro com leve toque de azul. Ideal para representar o asfalto, edifícios ou estruturas metálicas em um ambiente urbano à noite. Traz uma sensação de peso e solidez, perfeito para áreas industriais ou escuras.
+
+
+
+#575759 (RGB 87, 87, 89):
+
+Um cinza metálico, que remete a superfícies de concreto ou metal, como postes, edifícios e elementos urbanos. Esse tom neutro ajuda a equilibrar as cores mais intensas e criar uma base sólida para a cena.
+
+
+
+#F89F63 (RGB 248, 159, 99):
+
+Um laranja vibrante, que contrasta fortemente com os tons escuros. Pode representar luzes da cidade, como letreiros de neon ou o brilho das janelas. Ele adiciona calor e energia à cena, capturando a ideia de uma cidade viva e iluminada.
+
+
+
+#A0F266 (RGB 160, 242, 102):
+
+Um verde neon brilhante, que traz um ar futurista e tecnológico. Perfeito para representar luzes artificiais, como sinais de trânsito, hologramas ou outros elementos high-tech. Ele injeta um toque de modernidade e inovação, contrastando com o ambiente mais escuro.
+<br>
+
+
+
 <br>
 
 links drive: <br>
