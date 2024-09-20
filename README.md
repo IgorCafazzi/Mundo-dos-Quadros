@@ -292,8 +292,37 @@ Um preto quase absoluto, que traz profundidade e seriedade à paleta. Ideal para
 
 Um preto intenso, que complementa o anterior, mas com um toque mais profundo. É excelente para criar áreas de forte contraste e drama na cena, especialmente em combinações com as cores mais claras.
 <br>
-<h3></h3>
+<h3>Menu Principal</h3>
 
+![AdobeColor-Menu.jpeg](https://github.com/user-attachments/assets/579f992a-c74e-4e4b-be1a-2275af75ce4b)
+
+#000000:
+
+O preto puro. Ele traz profundidade e serve como base sólida para a paleta. Ideal para áreas de sombra, fundo ou elementos que precisam de destaque.
+
+
+
+#D5241A (RGB 213, 36, 26):
+
+Um vermelho vibrante e intenso. Essa cor chama atenção e pode ser usada para elementos que exigem foco, como alertas ou ações importantes no jogo. Transmite energia e urgência.
+
+
+
+#D99923 (RGB 217, 153, 35):
+
+Um amarelo-alaranjado quente, que adiciona uma sensação de calor e otimismo. Pode ser usado para detalhes que precisam se destacar, como ícones ou iluminação, complementando o vermelho.
+
+
+
+#736866 (RGB 115, 107, 102):
+
+Um cinza acinzentado, que traz um toque de neutralidade e rusticidade. Essa cor pode ser utilizada para superfícies ou elementos de fundo, criando um equilíbrio com as cores mais vibrantes.
+
+
+
+#263645 (RGB 38, 54, 69):
+
+Um azul-escuro, que adiciona profundidade e um toque de sofisticação. Ele pode ser usado para representar áreas mais sombrias ou industriais, ajudando a criar um contraste com os tons mais quentes da paleta.
 <br>
 links drive: <br>
 Jogo: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
