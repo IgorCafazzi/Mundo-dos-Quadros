@@ -1,5 +1,11 @@
 # Mundo-dos-Quadros 🎨 🖼️
 
+<h1>Integrantes</h1>
+Bruno Queiroz Plata <br>
+Igor Cafazzi <br>
+Hudson Araujo <br>
+Henrique Kenji <br>
+
 <h1>Introdução ao Jogo</h1>
 
  Nossa ideia é um jogo de ação e plataforma 3D ambientado na São Paulo contemporânea. O jogador inicia sua jornada na Avenida Paulista e explorarando um beco, encontra o MASP. Ao entrar no museu, ele embarca em uma aventura dentro da pintura "A Cidade Iluminada" de Antonio Bandeira, que reflete a metamorfose de São Paulo atual. Dentro do quadro, o jogo se transforma em uma plataforma, onde os principais inimigos são fantasmas repreentando "falhas" na pintura. Após superar duas fases desafiadoras, o jogador consegue escapar. O jogo é inspirado em títulos como Crash Bandicoot, Super Mario Bros. Wonder, Super Mario Odyssey e Epic Mickey.
@@ -80,7 +86,13 @@ Já no Masp usamos o asset do masp novamente para representar uma sala com diver
 ![Museu-Masp-Sao-Paulo-18](https://github.com/user-attachments/assets/4d610717-a904-41e9-b753-de743bcb1091)
 
 <br>
-No final do corredor o jogador encontra o quadro da Cidade Iluminada, ao encostar nele o jogador sera teletransportado para a próxima cena. Ao lado desse quadro está o inspetor, um homem de poucas palavras presente na cena. <br>
+No final do corredor o jogador encontra o quadro da Cidade Iluminada, ao encostar nele o jogador sera teletransportado para a próxima cena. Ao lado desse quadro está o inspetor que tem falas.
+
+o inspetor usa um collisor de cubo para quando o jogador entrar em contato ativar o painel de fala dele, assim mostrando a fala do inspetor. essa mecânica também é usada quando Marquinhos vê o masp na Avenida Paulista.
+
+![IMG-20240919-WA0055.jpg](https://github.com/user-attachments/assets/ae3be496-e3d6-4571-930e-10455e30c9a3)
+
+<br>
 asset: (https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870)
 
 <hr>
