@@ -204,33 +204,65 @@ Um marrom acinzentado suave, que transmite uma sensação de estabilidade e neut
 
 
 
-2. #181D26 (RGB 24, 29, 38):
+#181D26 (RGB 24, 29, 38):
 
 O azul escuro quase preto já mencionado anteriormente. Ele traz um ar noturno ou misterioso à paleta, sendo ideal para fundos ou sombras, fornecendo profundidade à cena.
 
 
 
-3. #9CD95F (RGB 156, 217, 95):
+#9CD95F (RGB 156, 217, 95):
 
 Um verde vibrante e fresco, que pode representar a vegetação ou elementos de natureza viva. Ele adiciona uma energia mais leve e positiva à paleta, quebrando um pouco os tons mais terrosos e escuros, sugerindo crescimento ou vida.
 
 
 
-4. #A66D3C (RGB 166, 109, 60):
+#A66D3C (RGB 166, 109, 60):
 
 Um marrom alaranjado, que evoca a sensação de madeira ou tijolos. Ele traz uma sensação de calor e rusticidade, ideal para representar materiais tradicionais ou orgânicos em um cenário.
 
 
 
-5. #F2AE72 (RGB 242, 174, 114):
+#F2AE72 (RGB 242, 174, 114):
 
 Um laranja pêssego claro, que sugere calor e aconchego. Ele pode ser usado para destacar elementos com iluminação suave, como o pôr do sol refletindo em superfícies, ou para criar uma atmosfera convidativa.
 
 <br>
+<h3>Avenida Paulista</h3>
 
+![AdobeColor-Avenida Paulista.jpeg](https://github.com/user-attachments/assets/2a46f7e1-f9a8-437c-9c71-481900e46f3b)
+
+
+#4F4F4D (RGB 79, 79, 77):
+
+Um cinza escuro com leve toque de marrom, que traz uma sensação de neutralidade, seriedade e estabilidade. Pode ser usado em superfícies de fundo ou para representar materiais como concreto, metal ou pedras.
+
+
+
+#5F5F5D (RGB 95, 95, 93):
+
+Um cinza médio, que é um pouco mais claro e equilibrado. Essa cor pode ser usada para criar transições suaves entre elementos mais escuros e os tons vibrantes da paleta, fornecendo uma base sólida para o cenário.
+
+
+
+#D92929 (RGB 217, 41, 41):
+
+Um vermelho vibrante e intenso, que chama muita atenção. Ele pode ser usado para destacar áreas importantes, como elementos de perigo, ação ou algo que precisa ser enfatizado na cena. Traz uma sensação de urgência e energia.
+
+
+
+#BF2626 (RGB 191, 38, 38):
+
+Um vermelho escuro, menos brilhante que o anterior, mas ainda poderoso. Ele pode ser usado para detalhes de fundo ou para criar um contraste dramático com os tons mais neutros. Passa uma sensação de seriedade e intensidade.
+
+
+
+#30383A (RGB 48, 56, 58):
+
+Um cinza muito escuro com toque azulado, que quase se aproxima do preto. É ideal para áreas de sombra ou para criar profundidade na cena, ajudando a enfatizar os elementos mais claros e vibrantes.
+<br>
+<h3></h3>
 
 <br>
-
 links drive: <br>
 Jogo: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
 
