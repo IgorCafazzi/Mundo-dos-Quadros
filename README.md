@@ -194,7 +194,39 @@ Um laranja vibrante, que contrasta fortemente com os tons escuros. Pode represen
 
 Um verde neon brilhante, que traz um ar futurista e tecnológico. Perfeito para representar luzes artificiais, como sinais de trânsito, hologramas ou outros elementos high-tech. Ele injeta um toque de modernidade e inovação, contrastando com o ambiente mais escuro.
 <br>
+<h3>Cena Cidade Iluminada parte 2</h3>
 
+![AdobeColor-City2.jpeg](https://github.com/user-attachments/assets/9da9820a-eb59-44e5-85aa-229153006a44)
+
+#766865 (RGB 118, 104, 101):
+
+Um marrom acinzentado suave, que transmite uma sensação de estabilidade e neutralidade. Esse tom pode ser utilizado para representar superfícies desgastadas, como paredes ou pisos antigos, ou até elementos naturais como troncos de árvores ou rochas.
+
+
+
+2. #181D26 (RGB 24, 29, 38):
+
+O azul escuro quase preto já mencionado anteriormente. Ele traz um ar noturno ou misterioso à paleta, sendo ideal para fundos ou sombras, fornecendo profundidade à cena.
+
+
+
+3. #9CD95F (RGB 156, 217, 95):
+
+Um verde vibrante e fresco, que pode representar a vegetação ou elementos de natureza viva. Ele adiciona uma energia mais leve e positiva à paleta, quebrando um pouco os tons mais terrosos e escuros, sugerindo crescimento ou vida.
+
+
+
+4. #A66D3C (RGB 166, 109, 60):
+
+Um marrom alaranjado, que evoca a sensação de madeira ou tijolos. Ele traz uma sensação de calor e rusticidade, ideal para representar materiais tradicionais ou orgânicos em um cenário.
+
+
+
+5. #F2AE72 (RGB 242, 174, 114):
+
+Um laranja pêssego claro, que sugere calor e aconchego. Ele pode ser usado para destacar elementos com iluminação suave, como o pôr do sol refletindo em superfícies, ou para criar uma atmosfera convidativa.
+
+<br>
 
 
 <br>
