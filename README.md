@@ -135,6 +135,10 @@ Após vencer a fase final, Marquinhos encontra uma porta que o leva de volta a s
 <h2>Paleta de Cores</h2>
 
 <h3>Cena Masp:</h3>
+
+![AdobeColor-Masp.jpeg](https://github.com/user-attachments/assets/b6cc1e96-aad5-4955-9f78-2c4000cea711)
+
+
 #5E90F2 (RGB 94, 144, 242):
 
 Um azul claro e vibrante, que transmite uma sensação de calma e profundidade. Pode remeter ao céu ou à ideia de espaço aberto dentro do MASP, com suas grandes janelas e vistas da cidade.
