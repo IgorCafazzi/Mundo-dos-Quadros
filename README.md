@@ -324,13 +324,16 @@ Um cinza acinzentado, que traz um toque de neutralidade e rusticidade. Essa cor 
 
 Um azul-escuro, que adiciona profundidade e um toque de sofisticação. Ele pode ser usado para representar áreas mais sombrias ou industriais, ajudando a criar um contraste com os tons mais quentes da paleta.
 <br>
-links drive: <br>
-Jogo: https://drive.google.com/file/d/17swtILI3SFxxlAQYAHaBnnhLDMhN2TTj/view?usp=sharing
+links drive: 
 
 <br>
-Jogo Editável:
-https://drive.google.com/file/d/14t8xrI_jGDbsbNWJVvcvzWBaKy4VCB6U/view?usp=sharing
 
+Jogo: 
+https://drive.google.com/file/d/1ysOo7WZfQ6gEMb4ZVbHp9X5czNQuLA7C/view?usp=sharing
+
+<br>
+
+Jogo Editável:
+https://drive.google.com/file/d/1KOMe5FFUKkn4hJ648sLqcK4J2dBTSlTj/view?usp=sharing
 
 Vídeo YouTube:
-https://youtu.be/UuGwjS3-63I?si=L8QQladvt_WmlxAt
