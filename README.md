@@ -260,6 +260,38 @@ Um vermelho escuro, menos brilhante que o anterior, mas ainda poderoso. Ele pode
 
 Um cinza muito escuro com toque azulado, que quase se aproxima do preto. É ideal para áreas de sombra ou para criar profundidade na cena, ajudando a enfatizar os elementos mais claros e vibrantes.
 <br>
+<h3>Game Over</h3>
+
+![AdobeColor-Game over.jpeg](https://github.com/user-attachments/assets/d8122ad9-bb43-4d3a-ba73-92204045c3eb)
+
+#D1D1D1 (RGB 209, 209, 209):
+
+Um cinza claro, que traz leveza e suavidade. Pode ser usado para superfícies ou elementos de fundo, criando uma base neutra e elegante.
+
+
+
+#E9E7DA (RGB 233, 231, 218):
+
+Um cinza muito claro com um toque quente, quase um bege. Essa cor pode transmitir uma sensação de calor e acolhimento, ideal para áreas que desejam criar uma atmosfera convidativa.
+
+
+
+#F2F2F2 (RGB 242, 242, 242):
+
+Um branco acinzentado, que é ainda mais suave. Pode ser utilizado para detalhes de destaque ou para iluminar espaços, ajudando a criar um contraste leve com os tons mais escuros.
+
+
+
+#191617 (RGB 25, 22, 23):
+
+Um preto quase absoluto, que traz profundidade e seriedade à paleta. Ideal para elementos de fundo, sombras ou para destacar áreas importantes, proporcionando um contraste forte com os tons mais claros.
+
+
+
+#0D0D0D (RGB 13, 13, 13):
+
+Um preto intenso, que complementa o anterior, mas com um toque mais profundo. É excelente para criar áreas de forte contraste e drama na cena, especialmente em combinações com as cores mais claras.
+<br>
 <h3></h3>
 
 <br>
